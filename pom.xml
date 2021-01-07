@@ -15,7 +15,8 @@
     </properties>
 
     <modules>
-        <module>spring-boot-nacos-demo</module>
+        <module>spring-boot-nacos-config-demo</module>
+        <module>spring-boot-nacos-discovery-demo</module>
     </modules>
 
 </project>
