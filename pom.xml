@@ -17,6 +17,7 @@
     <modules>
         <module>spring-boot-nacos-config-demo</module>
         <module>spring-boot-nacos-discovery-demo</module>
+        <module>spring-boot-alibaba-nacos-config-demo</module>
     </modules>
 
 </project>
