@@ -7,5 +7,5 @@
 **[spring-boot-nacos-config-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-nacos-discovery-demo)**:
 Nacos config service api demo
 
-**[spring-boot-nacos-config-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-nacos-discovery-demo)**:
+**[spring-boot-nacos-discovery-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-nacos-discovery-demo)**:
 Nacos name service api demo
