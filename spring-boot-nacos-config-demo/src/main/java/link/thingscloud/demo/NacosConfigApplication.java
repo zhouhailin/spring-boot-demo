@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @version 1.0.0
  */
 @SpringBootApplication
-@NacosPropertySource(dataId = "example", autoRefreshed = true)
+@NacosPropertySource(dataId = "${spring.application.name}", autoRefreshed = true)
 public class NacosConfigApplication {
 
     public static void main(String[] args) {

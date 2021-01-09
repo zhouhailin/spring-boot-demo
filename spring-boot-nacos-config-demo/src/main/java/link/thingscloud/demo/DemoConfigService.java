@@ -6,6 +6,7 @@ import com.alibaba.nacos.api.config.ConfigService;
 import com.alibaba.nacos.api.config.listener.Listener;
 import com.alibaba.nacos.api.exception.NacosException;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
@@ -21,16 +22,18 @@ public class DemoConfigService {
 
     @NacosInjected
     private ConfigService configService;
+    @Value("${spring.application.name}")
+    private String applicatinName;
 
     @PostConstruct
     public void todo1() throws NacosException {
-        String example = configService.getConfig("example", Constants.DEFAULT_GROUP, 1000);
+        String example = configService.getConfig(applicatinName, Constants.DEFAULT_GROUP, 1000);
         System.out.println(example);
     }
 
     @PostConstruct
     public void todo2() throws NacosException {
-        configService.addListener("example", Constants.DEFAULT_GROUP, new Listener() {
+        configService.addListener(applicatinName, Constants.DEFAULT_GROUP, new Listener() {
             @Override
             public Executor getExecutor() {
                 return null;
