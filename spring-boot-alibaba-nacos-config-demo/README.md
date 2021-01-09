@@ -8,7 +8,7 @@
 
     http://127.0.0.1:8082/sample/getUserName
 
-## nacos config
+## nacos server config
 
 **spring-boot-alibaba-nacos-config-demo.properties**
 
