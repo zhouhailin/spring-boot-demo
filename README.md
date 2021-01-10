@@ -23,3 +23,13 @@ Nacos discovery provider service demo for spring cloud
 **[spring-boot-alibaba-nacos-discovery-consumer-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-alibaba-nacos-discovery-consumer-demo)**:
 Nacos discovery consumer demo for spring cloud
 
+## spring-boot-dubbo
+
+**[spring-boot-dubbo-interface-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-interface-demo)**:
+Interface provider service demo
+
+**[spring-boot-dubbo-provider-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-provider-demo)**:
+Dubbo provider service demo
+
+**[spring-boot-dubbo-consumer-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-consumer-demo)**:
+Consumer provider service demo
