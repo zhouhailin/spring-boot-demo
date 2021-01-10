@@ -23,6 +23,8 @@
         <module>spring-boot-dubbo-provider-demo</module>
         <module>spring-boot-dubbo-consumer-demo</module>
         <module>spring-boot-dubbo-api-demo</module>
+        <module>spring-boot-dubbo-provider-nacos-demo</module>
+        <module>spring-boot-dubbo-consumer-nacos-demo</module>
     </modules>
 
 </project>
