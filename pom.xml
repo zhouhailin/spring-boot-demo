@@ -22,7 +22,7 @@
         <module>spring-boot-alibaba-nacos-discovery-consumer-demo</module>
         <module>spring-boot-dubbo-provider-demo</module>
         <module>spring-boot-dubbo-consumer-demo</module>
-        <module>spring-boot-dubbo-interface-demo</module>
+        <module>spring-boot-dubbo-api-demo</module>
     </modules>
 
 </project>

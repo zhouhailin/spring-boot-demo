@@ -34,7 +34,7 @@
         </dependency>
         <dependency>
             <groupId>link.thingscloud</groupId>
-            <artifactId>spring-boot-dubbo-interface-demo</artifactId>
+            <artifactId>spring-boot-dubbo-api-demo</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
