@@ -1,5 +1,6 @@
 package link.thingscloud.demo;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,6 +22,9 @@ public class SampleController {
     @Value("${user.age:25}")
     int age;
 
+    @Autowired
+    private User user;
+
     @GetMapping("/getUserName")
     public String getUserName() {
         return userName;
@@ -29,6 +33,11 @@ public class SampleController {
     @GetMapping("/getAge")
     public Integer getAge() {
         return age;
+    }
+
+    @GetMapping("/getUser")
+    public User getUser() {
+        return user;
     }
 
 }

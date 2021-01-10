@@ -18,6 +18,8 @@
         <module>spring-boot-nacos-config-demo</module>
         <module>spring-boot-nacos-discovery-demo</module>
         <module>spring-boot-alibaba-nacos-config-demo</module>
+        <module>spring-boot-alibaba-nacos-discovery-provider-demo</module>
+        <module>spring-boot-alibaba-nacos-discovery-consumer-demo</module>
     </modules>
 
 </project>

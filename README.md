@@ -14,3 +14,12 @@ Nacos name service api demo
 
 **[spring-boot-alibaba-nacos-config-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-alibaba-nacos-config-demo)**:
 Nacos config service demo for spring cloud
+
+## spring-boot-alibaba-discovery(not completed)
+
+**[spring-boot-alibaba-nacos-discovery-provider-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-alibaba-nacos-discovery-provider-demo)**:
+Nacos discovery provider service demo for spring cloud
+
+**[spring-boot-alibaba-nacos-discovery-consumer-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-alibaba-nacos-discovery-consumer-demo)**:
+Nacos discovery consumer demo for spring cloud
+
