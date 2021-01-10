@@ -25,6 +25,9 @@
         <module>spring-boot-dubbo-api-demo</module>
         <module>spring-boot-dubbo-provider-nacos-demo</module>
         <module>spring-boot-dubbo-consumer-nacos-demo</module>
+        <module>spring-boot-alibaba-dubbo-api-demo</module>
+        <module>spring-boot-alibaba-dubbo-consumer-nacos-demo</module>
+        <module>spring-boot-alibaba-dubbo-provider-nacos-demo</module>
     </modules>
 
 </project>

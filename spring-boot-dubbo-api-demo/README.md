@@ -1,2 +1,2 @@
-# spring boot dubbo interface demo
+# spring boot dubbo api demo
 

@@ -43,3 +43,17 @@ Dubbo provider service demo with nacos
 
 **[spring-boot-dubbo-consumer-nacos-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-consumer-nacos-demo)**:
 Consumer provider service demo with nacos
+
+## spring-cloud-alibaba-dubbo
+
+**[spring-cloud-alibaba-dubbo-api-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-cloud-alibaba-dubbo-api-demo)**:
+Interface provider service demo
+
+### spring-cloud-alibaba-dubbo-nacos
+
+**[spring-cloud-alibaba-dubbo-provider-nacos-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-cloud-alibaba-dubbo-provider-nacos-demo)**:
+Dubbo provider service demo with nacos
+
+**[spring-cloud-alibaba-dubbo-consumer-nacos-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-cloud-alibaba-dubbo-consumer-nacos-demo)**:
+Consumer provider service demo with nacos
+
