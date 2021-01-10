@@ -34,7 +34,7 @@ API service demo
 Dubbo provider service demo
 
 **[spring-boot-dubbo-consumer-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-consumer-demo)**:
-Consumer provider service demo
+Dubbo consumer service demo
 
 ### spring-boot-dubbo-nacos
 
@@ -42,7 +42,7 @@ Consumer provider service demo
 Dubbo provider service demo with nacos
 
 **[spring-boot-dubbo-consumer-nacos-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-consumer-nacos-demo)**:
-Consumer provider service demo with nacos
+Dubbo consumer service demo with nacos
 
 ## spring-cloud-alibaba-dubbo
 
@@ -55,5 +55,5 @@ API service demo
 Dubbo provider service demo with nacos
 
 **[spring-cloud-alibaba-dubbo-consumer-nacos-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-cloud-alibaba-dubbo-consumer-nacos-demo)**:
-Consumer provider service demo with nacos
+Dubbo consumer service demo with nacos
 
