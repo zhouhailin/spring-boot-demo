@@ -26,7 +26,7 @@ Nacos discovery consumer demo for spring cloud
 ## spring-boot-dubbo
 
 **[spring-boot-dubbo-api-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-boot-dubbo-api-demo)**:
-Interface provider service demo
+API provider service demo
 
 ### spring-boot-dubbo
 
@@ -47,7 +47,7 @@ Consumer provider service demo with nacos
 ## spring-cloud-alibaba-dubbo
 
 **[spring-cloud-alibaba-dubbo-api-demo](https://github.com/zhouhailin/spring-boot-demo/tree/master/spring-cloud-alibaba-dubbo-api-demo)**:
-Interface provider service demo
+API provider service demo
 
 ### spring-cloud-alibaba-dubbo-nacos
 
