@@ -7,6 +7,8 @@
 ## demo url
 
     http://127.0.0.1:8082/sample/getUserName
+    http://127.0.0.1:8082/sample/getAge
+    http://127.0.0.1:8082/sample/getUser
 
 ## nacos server config
 
