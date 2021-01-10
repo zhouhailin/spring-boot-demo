@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author zhouhailin
  * @version 1.0.0
  */
-//@EnableDiscoveryClient
 @SpringBootApplication
 public class AlibabaDubboConsumerNacosApplication {
 

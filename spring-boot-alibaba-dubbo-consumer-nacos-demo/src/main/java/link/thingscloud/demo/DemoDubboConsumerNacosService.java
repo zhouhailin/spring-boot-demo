@@ -24,19 +24,17 @@ public class DemoDubboConsumerNacosService {
     @Value("${dubbo.application.name}")
     private String serviceName;
 
-
     @DubboReference(version = "1.0.0")
     private EchoService echoService;
 
     @PostConstruct
     public void echo() throws InterruptedException {
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 20; i++) {
             try {
                 log.warn(echoService.echo(serviceName));
             } catch (Exception e) {
                 e.printStackTrace();
             }
-            Thread.sleep(100);
         }
     }
 }
